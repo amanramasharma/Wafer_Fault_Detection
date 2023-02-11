@@ -1,0 +1,87 @@
+2023-01-17/23:25:18		Start of Training
+2023-01-17/23:25:18		Entered the get_data method of the Data_Getter class
+2023-01-17/23:25:18		Data Load Successful. Exited the get_data method of the Data_Getter class
+2023-01-17/23:25:18		Entered the remove_columns method of the Preprocessor class
+2023-01-17/23:25:18		Column removal successful.
+2023-01-17/23:25:18		Exited the remove_columns method of the Preprocessor class
+2023-01-17/23:25:18		Entered the separate_label_feature method of the Preprocessor class
+2023-01-17/23:25:18		Label Sepration Operation Successful. Exited the separate_label_feature method of the Preprocessor class
+2023-01-17/23:25:18		Entered the is_null_present method in Preprocessor class
+2023-01-17/23:25:18		Finding missing values is a success. Data written to null values file. Exited the is_null_present method of the Preprocessor class
+2023-01-17/23:25:18		Entered the impute_missing_values method of the Preprocessor class
+2023-01-17/23:25:37		Imputing missing values Successful. Exited the impute_missing_values method of the Preprocessor class
+2023-01-17/23:25:37		Entered the get_columns_with_zero_std_deviation method of the Preprocessor class
+2023-01-17/23:25:38		Column search for Standard Deviation of Zero Successful. Exited the get_columns_with_zero_std_deviation method of the Preprocessor class
+2023-01-17/23:25:38		Entered the remove_columns method of the Preprocessor class
+2023-01-17/23:25:38		Column removal successful.
+2023-01-17/23:25:38		Exited the remove_columns method of the Preprocessor class
+2023-01-17/23:25:38		Entered the elbow_plot method of the KMeansClustering class
+2023-01-17/23:25:44		The optimum number of clusters is :3. Exited the elbow_plot method of the KMeansClustering class
+2023-01-17/23:25:44		Entered the create_clusters method of the KMeansClustering class
+2023-01-17/23:25:44		Entered the save_model method of the File_Operation class
+2023-01-17/23:25:44		Model File KMeans saved. Exited the save_model method of the Model_finder class
+2023-01-17/23:25:44		Successfully created 3clusters. Exited the create_clusters method of the KMeansClustering class
+2023-01-17/23:25:44		Entered the get_best_model method of the Model_Finder class
+2023-01-17/23:25:44		Entered the get_best_params_for_xgboost method of the Model_Finder class
+2023-01-17/23:34:12		XGBoost best params: {'learning_rate': 0.5, 'max_depth': 3, 'n_estimators': 50}. Exited the get_best_params_for_xgboost method of the Model_Finder class.
+2023-01-17/23:34:12		AUC for XGBoost: 1.0
+2023-01-17/23:34:12		Entered the get_best_params_for_random_forest method of the Model_Finder class
+2023-01-17/23:35:17		Random Forest best params: {'criterion': 'gini', 'max_depth': 3, 'max_features': 'auto', 'n_estimators': 50}. Exited the get_best_params_for_random_forest method of the Model_Finder class
+2023-01-17/23:35:17		AUC for Random Forest: 0.5131578947368421
+2023-01-17/23:35:17		Entered the get_best_params_for_LR method of the Model_Finder class
+2023-01-18/18:48:20		Logistic Regression params: {'C': 0.615848211066026, 'max_iter': 100, 'penalty': 'l1', 'solver': 'liblinear'}. Exited the get_best_params_for_LR method of the Model_Finder class.
+2023-01-18/18:48:20		AUC for Logistic Regression: 1.0
+2023-01-18/18:48:20		Entered the get_best_params_for_DT method of the Model_Finder class
+2023-01-18/18:48:44		Decision Tree params: {'criterion': 'entropy', 'max_depth': 10, 'min_samples_leaf': 5}. Exited the get_best_params_for_DT method of the Model_Finder class.
+2023-01-18/18:48:44		AUC for Decision Tree: 0.9061586257309943
+2023-01-18/18:48:44		Entered the get_best_params_for_SVM method of the Model_Finder class
+2023-01-18/18:49:17		SVM params: {'C': 1, 'gamma': 1, 'kernel': 'rbf'}. Exited the get_best_params_for_SVM method of the Model_Finder class.
+2023-01-18/18:49:17		AUC for SVM: 1.0
+2023-01-18/18:49:17		Entered the get_best_params_for_knn method of the Model_Finder class
+2023-01-18/20:59:26		KNN params: {'leaf_size': 1, 'metric': 'minkowski', 'n_neighbors': 1, 'p': 2, 'weights': 'uniform'}. Exited the get_best_params_for_knn method of the Model_Finder class.
+2023-01-18/20:59:26		AUC for knn: 1.0
+2023-01-18/20:59:26		Entered the save_model method of the File_Operation class
+2023-01-18/20:59:26		Model File XGBoost 0 saved. Exited the save_model method of the Model_finder class
+2023-01-18/20:59:26		Entered the get_best_model method of the Model_Finder class
+2023-01-18/20:59:26		Entered the get_best_params_for_xgboost method of the Model_Finder class
+2023-01-18/21:00:37		XGBoost best params: {'learning_rate': 0.5, 'max_depth': 3, 'n_estimators': 50}. Exited the get_best_params_for_xgboost method of the Model_Finder class.
+2023-01-18/21:00:37		AUC for XGBoost: 1.0
+2023-01-18/21:00:37		Entered the get_best_params_for_random_forest method of the Model_Finder class
+2023-01-18/21:00:52		Random Forest best params: {'criterion': 'gini', 'max_depth': 3, 'max_features': 'auto', 'n_estimators': 10}. Exited the get_best_params_for_random_forest method of the Model_Finder class
+2023-01-18/21:00:52		AUC for Random Forest: 0.8125
+2023-01-18/21:00:52		Entered the get_best_params_for_LR method of the Model_Finder class
+2023-01-18/21:34:40		Logistic Regression params: {'C': 0.0001, 'max_iter': 100, 'penalty': 'l2', 'solver': 'lbfgs'}. Exited the get_best_params_for_LR method of the Model_Finder class.
+2023-01-18/21:34:40		AUC for Logistic Regression: 1.0
+2023-01-18/21:34:40		Entered the get_best_params_for_DT method of the Model_Finder class
+2023-01-18/21:34:42		Decision Tree params: {'criterion': 'gini', 'max_depth': 5, 'min_samples_leaf': 5}. Exited the get_best_params_for_DT method of the Model_Finder class.
+2023-01-18/21:34:42		AUC for Decision Tree: 0.7748287671232877
+2023-01-18/21:34:42		Entered the get_best_params_for_SVM method of the Model_Finder class
+2023-01-18/21:34:44		SVM params: {'C': 0.1, 'gamma': 1, 'kernel': 'poly'}. Exited the get_best_params_for_SVM method of the Model_Finder class.
+2023-01-18/21:34:44		AUC for SVM: 1.0
+2023-01-18/21:34:44		Entered the get_best_params_for_knn method of the Model_Finder class
+2023-01-18/21:49:39		KNN params: {'leaf_size': 1, 'metric': 'minkowski', 'n_neighbors': 1, 'p': 1, 'weights': 'uniform'}. Exited the get_best_params_for_knn method of the Model_Finder class.
+2023-01-18/21:49:39		AUC for knn: 1.0
+2023-01-18/21:49:39		Entered the save_model method of the File_Operation class
+2023-01-18/21:49:39		Model File XGBoost 2 saved. Exited the save_model method of the Model_finder class
+2023-01-18/21:49:39		Entered the get_best_model method of the Model_Finder class
+2023-01-18/21:49:39		Entered the get_best_params_for_xgboost method of the Model_Finder class
+2023-01-18/21:51:41		XGBoost best params: {'learning_rate': 0.5, 'max_depth': 3, 'n_estimators': 10}. Exited the get_best_params_for_xgboost method of the Model_Finder class.
+2023-01-18/21:51:41		AUC for XGBoost: 1.0
+2023-01-18/21:51:41		Entered the get_best_params_for_random_forest method of the Model_Finder class
+2023-01-18/21:52:01		Random Forest best params: {'criterion': 'entropy', 'max_depth': 3, 'max_features': 'auto', 'n_estimators': 100}. Exited the get_best_params_for_random_forest method of the Model_Finder class
+2023-01-18/21:52:01		AUC for Random Forest: 0.7692307692307692
+2023-01-18/21:52:01		Entered the get_best_params_for_LR method of the Model_Finder class
+2023-01-18/23:18:09		Logistic Regression params: {'C': 0.0001, 'max_iter': 100, 'penalty': 'l2', 'solver': 'newton-cg'}. Exited the get_best_params_for_LR method of the Model_Finder class.
+2023-01-18/23:18:09		AUC for Logistic Regression: 1.0
+2023-01-18/23:18:09		Entered the get_best_params_for_DT method of the Model_Finder class
+2023-01-18/23:18:16		Decision Tree params: {'criterion': 'entropy', 'max_depth': 5, 'min_samples_leaf': 5}. Exited the get_best_params_for_DT method of the Model_Finder class.
+2023-01-18/23:18:16		AUC for Decision Tree: 0.8415666901905434
+2023-01-18/23:18:16		Entered the get_best_params_for_SVM method of the Model_Finder class
+2023-01-18/23:18:23		SVM params: {'C': 1, 'gamma': 1, 'kernel': 'rbf'}. Exited the get_best_params_for_SVM method of the Model_Finder class.
+2023-01-18/23:18:23		AUC for SVM: 1.0
+2023-01-18/23:18:23		Entered the get_best_params_for_knn method of the Model_Finder class
+2023-01-18/23:44:52		KNN params: {'leaf_size': 1, 'metric': 'minkowski', 'n_neighbors': 14, 'p': 1, 'weights': 'distance'}. Exited the get_best_params_for_knn method of the Model_Finder class.
+2023-01-18/23:44:52		AUC for knn: 1.0
+2023-01-18/23:44:52		Entered the save_model method of the File_Operation class
+2023-01-18/23:44:52		Model File XGBoost 1 saved. Exited the save_model method of the Model_finder class
+2023-01-18/23:44:52		 Successful End of Training

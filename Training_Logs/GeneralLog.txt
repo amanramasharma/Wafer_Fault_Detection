@@ -1,0 +1,4 @@
+2023-01-17/23:25:14		Bad Raw Directory is deleted successfully !!!
+2023-01-17/23:25:17		Good Raw Directory is deleted successfully !!!
+2023-01-17/23:25:17		Bad files moved to archive
+2023-01-17/23:25:17		Bad Raw Folder Deleted Successfully!!

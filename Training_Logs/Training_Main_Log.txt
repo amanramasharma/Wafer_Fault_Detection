@@ -1,0 +1,14 @@
+2023-01-17/23:25:14		Start of Validation on files!!
+2023-01-17/23:25:15		Raw Data Validation Complete!!
+2023-01-17/23:25:15		Starting Data Transformation!!!
+2023-01-17/23:25:16		Data Transformation Completed!!!
+2023-01-17/23:25:16		Creating Tarining_Database and tables on the basis of given schema!!
+2023-01-17/23:25:16		Table Creation Completed!!!
+2023-01-17/23:25:16		Insertion of Data into Table started!!!
+2023-01-17/23:25:17		Insertion in Table completed!!!
+2023-01-17/23:25:17		Deleting Good Data Folder!!!
+2023-01-17/23:25:17		Good_data folder deleted!!!
+2023-01-17/23:25:17		Deleting Bad_data folder after moving the files into Archive!!!
+2023-01-17/23:25:17		Bad Files moved to Archive!!! and Bad folder Deleted!!!
+2023-01-17/23:25:17		Validation Operation completed!!!
+2023-01-17/23:25:17		Extracting csv file from table!!!

@@ -1,0 +1,187 @@
+2023-01-21/19:06:04		Start of validation on files for prediction!!
+2023-01-21/19:07:13		Start of validation on files for prediction!!
+2023-01-21/19:07:21		Start of validation on files for prediction!!
+2023-01-21/21:03:55		Start of validation on files for prediction!!
+2023-01-21/21:05:58		Start of validation on files for prediction!!
+2023-01-21/21:06:26		Start of validation on files for prediction!!
+2023-01-21/23:06:45		Start of validation on files for prediction!!
+2023-01-21/23:18:59		Start of validation on files for prediction!!
+2023-01-21/23:18:59		Start of validation on files for prediction!!
+2023-01-21/23:19:01		Start of validation on files for prediction!!
+2023-01-21/23:19:01		Start of validation on files for prediction!!
+2023-01-21/23:19:04		Start of validation on files for prediction!!
+2023-01-21/23:20:56		Start of Validation on files for prediction!!
+2023-01-21/23:20:59		Start of Validation on files for prediction!!
+2023-01-21/23:21:00		Start of Validation on files for prediction!!
+2023-01-21/23:21:02		Start of Validation on files for prediction!!
+2023-01-21/23:21:02		Start of Validation on files for prediction!!
+2023-01-21/23:22:14		Start of Validation on files for prediction!!
+2023-01-21/23:22:14		!!
+2023-01-21/23:22:47		Start of Validation on files for prediction!!
+2023-01-21/23:22:47		!!
+2023-01-21/23:23:28		Start of Validation on files for prediction!!
+2023-01-21/23:23:28		!!
+2023-01-21/23:23:28		!!
+2023-01-21/23:23:29		Raw Data Validation Complete!!
+2023-01-21/23:23:29		Starting Data Transforamtion!!
+2023-01-21/23:23:29		DataTransformation Completed!!!
+2023-01-21/23:23:29		Creating Prediction_Database and tables on the basis of given schema!!!
+2023-01-21/23:26:52		Start of Validation on files for prediction!!
+2023-01-21/23:32:12		Start of Validation on files for prediction!!
+2023-01-21/23:33:15		Start of Validation on files for prediction!!
+2023-01-21/23:33:16		Raw Data Validation Complete!!
+2023-01-21/23:33:16		Starting Data Transforamtion!!
+2023-01-21/23:33:17		DataTransformation Completed!!!
+2023-01-21/23:33:17		Creating Prediction_Database and tables on the basis of given schema!!!
+2023-01-21/23:34:59		Start of Validation on files for prediction!!
+2023-01-21/23:34:59		Raw Data Validation Complete!!
+2023-01-21/23:34:59		Starting Data Transforamtion!!
+2023-01-21/23:35:00		DataTransformation Completed!!!
+2023-01-21/23:35:00		Creating Prediction_Database and tables on the basis of given schema!!!
+2023-01-21/23:37:23		Start of Validation on files for prediction!!
+2023-01-21/23:37:53		Start of Validation on files for prediction!!
+2023-01-21/23:37:54		Raw Data Validation Complete!!
+2023-01-21/23:37:54		Starting Data Transforamtion!!
+2023-01-21/23:37:54		DataTransformation Completed!!!
+2023-01-21/23:37:54		Creating Prediction_Database and tables on the basis of given schema!!!
+2023-01-21/23:39:13		Start of Validation on files for prediction!!
+2023-01-21/23:42:46		Start of Validation on files for prediction!!
+2023-01-21/23:42:47		Raw Data Validation Complete!!
+2023-01-21/23:42:47		Starting Data Transforamtion!!
+2023-01-21/23:42:47		DataTransformation Completed!!!
+2023-01-21/23:42:47		Creating Prediction_Database and tables on the basis of given schema!!!
+2023-01-21/23:44:40		Start of Validation on files for prediction!!
+2023-01-21/23:44:41		Raw Data Validation Complete!!
+2023-01-21/23:44:41		Starting Data Transforamtion!!
+2023-01-21/23:44:41		DataTransformation Completed!!!
+2023-01-21/23:44:41		Creating Prediction_Database and tables on the basis of given schema!!!
+2023-01-21/23:44:42		Table creation Completed!!
+2023-01-21/23:44:42		Insertion of Data into Table started!!!!
+2023-01-21/23:44:42		Insertion in Table completed!!!
+2023-01-21/23:44:42		Deleting Good Data Folder!!!
+2023-01-21/23:44:42		Good_Data folder deleted!!!
+2023-01-21/23:44:42		Moving bad files to Archive and deleting Bad_Data folder!!!
+2023-01-21/23:44:42		Bad files moved to archive!! Bad folder Deleted!!
+2023-01-21/23:44:42		Validation Operation completed!!
+2023-01-21/23:44:42		Extracting csv file from table
+2023-01-21/23:44:42		Start 0f Prediction
+2023-01-21/23:44:42		Error occured while running the prediction!! Error:: Data_Getter_Pred() takes no arguments
+2023-01-21/23:50:15		Start of Validation on files for prediction!!
+2023-01-21/23:50:16		Raw Data Validation Complete!!
+2023-01-21/23:50:16		Starting Data Transforamtion!!
+2023-01-21/23:50:16		DataTransformation Completed!!!
+2023-01-21/23:50:16		Creating Prediction_Database and tables on the basis of given schema!!!
+2023-01-21/23:50:16		Table creation Completed!!
+2023-01-21/23:50:16		Insertion of Data into Table started!!!!
+2023-01-21/23:50:17		Insertion in Table completed!!!
+2023-01-21/23:50:17		Deleting Good Data Folder!!!
+2023-01-21/23:50:17		Good_Data folder deleted!!!
+2023-01-21/23:50:17		Moving bad files to Archive and deleting Bad_Data folder!!!
+2023-01-21/23:50:17		Bad files moved to archive!! Bad folder Deleted!!
+2023-01-21/23:50:17		Validation Operation completed!!
+2023-01-21/23:50:17		Extracting csv file from table
+2023-01-21/23:50:17		Start of Prediction
+2023-01-21/23:50:17		Error occured while running the prediction!! Error:: Data_Getter_Pred() takes no arguments
+2023-01-21/23:51:08		Start of Validation on files for prediction!!
+2023-01-21/23:51:09		Raw Data Validation Complete!!
+2023-01-21/23:51:09		Starting Data Transforamtion!!
+2023-01-21/23:51:09		DataTransformation Completed!!!
+2023-01-21/23:51:09		Creating Prediction_Database and tables on the basis of given schema!!!
+2023-01-21/23:51:09		Table creation Completed!!
+2023-01-21/23:51:09		Insertion of Data into Table started!!!!
+2023-01-21/23:51:10		Insertion in Table completed!!!
+2023-01-21/23:51:10		Deleting Good Data Folder!!!
+2023-01-21/23:51:10		Good_Data folder deleted!!!
+2023-01-21/23:51:10		Moving bad files to Archive and deleting Bad_Data folder!!!
+2023-01-21/23:51:10		Bad files moved to archive!! Bad folder Deleted!!
+2023-01-21/23:51:10		Validation Operation completed!!
+2023-01-21/23:51:10		Extracting csv file from table
+2023-01-21/23:51:10		Start of Prediction
+2023-01-21/23:51:10		Entered the get_data method of the Data_Getter class
+2023-01-21/23:51:10		Data Load Successfully. Exited the get_data method of the Data_Getter class
+2023-01-21/23:51:10		Entered the is_null_present method in Preprocessor class
+2023-01-21/23:51:10		Finding missing values is a success. Data written to null values file. Exited the is_null_present method of the Preprocessor class
+2023-01-21/23:51:10		Entered the impute_missing_values method of the Preprocessor class
+2023-01-21/23:51:10		Imputing missing values Successful. Exited the impute_missing_values method of the Preprocessor class
+2023-01-21/23:51:10		Entered the get_columns_with_zero_std_deviation method of the Preprocessor class
+2023-01-21/23:51:11		Column search for Standard Deviation of Zero Successful. Exited the get_columns_with_zero_std_deviation method of the Preprocessor class
+2023-01-21/23:51:11		Entered the remove_columns method of the Preprocessor class
+2023-01-21/23:51:11		Column removal successful.
+2023-01-21/23:51:11		Exited the remove_columns method of the Preprocessor class
+2023-01-21/23:51:11		Entered the load_model method of the File_Operation class
+2023-01-21/23:51:11		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2023-01-21/23:51:11		Error occured while running the prediction!! Error:: 'method' object is not subscriptable
+2023-01-21/23:53:51		Start of Validation on files for prediction!!
+2023-01-21/23:53:52		Raw Data Validation Complete!!
+2023-01-21/23:53:52		Starting Data Transforamtion!!
+2023-01-21/23:53:52		DataTransformation Completed!!!
+2023-01-21/23:53:52		Creating Prediction_Database and tables on the basis of given schema!!!
+2023-01-21/23:53:52		Table creation Completed!!
+2023-01-21/23:53:52		Insertion of Data into Table started!!!!
+2023-01-21/23:53:53		Insertion in Table completed!!!
+2023-01-21/23:53:53		Deleting Good Data Folder!!!
+2023-01-21/23:53:53		Good_Data folder deleted!!!
+2023-01-21/23:53:53		Moving bad files to Archive and deleting Bad_Data folder!!!
+2023-01-21/23:53:53		Bad files moved to archive!! Bad folder Deleted!!
+2023-01-21/23:53:53		Validation Operation completed!!
+2023-01-21/23:53:53		Extracting csv file from table
+2023-01-21/23:53:53		Start of Prediction
+2023-01-21/23:53:53		Entered the get_data method of the Data_Getter class
+2023-01-21/23:53:53		Data Load Successfully. Exited the get_data method of the Data_Getter class
+2023-01-21/23:53:53		Entered the is_null_present method in Preprocessor class
+2023-01-21/23:53:53		Finding missing values is a success. Data written to null values file. Exited the is_null_present method of the Preprocessor class
+2023-01-21/23:53:53		Entered the impute_missing_values method of the Preprocessor class
+2023-01-21/23:53:53		Imputing missing values Successful. Exited the impute_missing_values method of the Preprocessor class
+2023-01-21/23:53:53		Entered the get_columns_with_zero_std_deviation method of the Preprocessor class
+2023-01-21/23:53:54		Column search for Standard Deviation of Zero Successful. Exited the get_columns_with_zero_std_deviation method of the Preprocessor class
+2023-01-21/23:53:54		Entered the remove_columns method of the Preprocessor class
+2023-01-21/23:53:54		Column removal successful.
+2023-01-21/23:53:54		Exited the remove_columns method of the Preprocessor class
+2023-01-21/23:53:54		Entered the load_model method of the File_Operation class
+2023-01-21/23:53:54		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2023-01-21/23:53:54		Entered the find_correct_model_file method of the File_Operation class
+2023-01-21/23:53:54		Exited the find_correct_model_file method of the Model_Finder class.
+2023-01-21/23:53:54		Entered the load_model method of the File_Operation class
+2023-01-21/23:53:54		Model File XGBoost 0 loaded. Exited the load_model method of the Model_Finder class
+2023-01-21/23:53:54		Error occured while running the prediction!! Error:: [Errno 2] No such file or directory: 'Prediction_Output_File/Predictions.csv'
+2023-01-21/23:54:44		Start of Validation on files for prediction!!
+2023-01-21/23:54:45		Raw Data Validation Complete!!
+2023-01-21/23:54:45		Starting Data Transforamtion!!
+2023-01-21/23:54:45		DataTransformation Completed!!!
+2023-01-21/23:54:45		Creating Prediction_Database and tables on the basis of given schema!!!
+2023-01-21/23:54:46		Table creation Completed!!
+2023-01-21/23:54:46		Insertion of Data into Table started!!!!
+2023-01-21/23:54:46		Insertion in Table completed!!!
+2023-01-21/23:54:46		Deleting Good Data Folder!!!
+2023-01-21/23:54:46		Good_Data folder deleted!!!
+2023-01-21/23:54:46		Moving bad files to Archive and deleting Bad_Data folder!!!
+2023-01-21/23:54:46		Bad files moved to archive!! Bad folder Deleted!!
+2023-01-21/23:54:46		Validation Operation completed!!
+2023-01-21/23:54:46		Extracting csv file from table
+2023-01-21/23:54:46		Start of Prediction
+2023-01-21/23:54:46		Entered the get_data method of the Data_Getter class
+2023-01-21/23:54:46		Data Load Successfully. Exited the get_data method of the Data_Getter class
+2023-01-21/23:54:46		Entered the is_null_present method in Preprocessor class
+2023-01-21/23:54:46		Finding missing values is a success. Data written to null values file. Exited the is_null_present method of the Preprocessor class
+2023-01-21/23:54:46		Entered the impute_missing_values method of the Preprocessor class
+2023-01-21/23:54:47		Imputing missing values Successful. Exited the impute_missing_values method of the Preprocessor class
+2023-01-21/23:54:47		Entered the get_columns_with_zero_std_deviation method of the Preprocessor class
+2023-01-21/23:54:47		Column search for Standard Deviation of Zero Successful. Exited the get_columns_with_zero_std_deviation method of the Preprocessor class
+2023-01-21/23:54:47		Entered the remove_columns method of the Preprocessor class
+2023-01-21/23:54:47		Column removal successful.
+2023-01-21/23:54:47		Exited the remove_columns method of the Preprocessor class
+2023-01-21/23:54:47		Entered the load_model method of the File_Operation class
+2023-01-21/23:54:47		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2023-01-21/23:54:47		Entered the find_correct_model_file method of the File_Operation class
+2023-01-21/23:54:47		Exited the find_correct_model_file method of the Model_Finder class.
+2023-01-21/23:54:47		Entered the load_model method of the File_Operation class
+2023-01-21/23:54:47		Model File XGBoost 0 loaded. Exited the load_model method of the Model_Finder class
+2023-01-21/23:54:47		Entered the find_correct_model_file method of the File_Operation class
+2023-01-21/23:54:47		Exited the find_correct_model_file method of the Model_Finder class.
+2023-01-21/23:54:47		Entered the load_model method of the File_Operation class
+2023-01-21/23:54:47		Model File XGBoost 2 loaded. Exited the load_model method of the Model_Finder class
+2023-01-21/23:54:47		Entered the find_correct_model_file method of the File_Operation class
+2023-01-21/23:54:47		Exited the find_correct_model_file method of the Model_Finder class.
+2023-01-21/23:54:47		Entered the load_model method of the File_Operation class
+2023-01-21/23:54:47		Model File XGBoost 1 loaded. Exited the load_model method of the Model_Finder class
+2023-01-21/23:54:47		End of Prediction
